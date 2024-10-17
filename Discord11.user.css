@@ -27,7 +27,7 @@
     /* Message bubble style */
     if messageBubble==default {
         @import url(https://zuzumi-f.github.io/Discord-11/release/messagebubble11.css);
-
+    }
     /* Windows 11 emojis */
     if win11Emojis {
         @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
